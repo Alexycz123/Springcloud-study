@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Springcloud-study.iml" filepath="$PROJECT_DIR$/Springcloud-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-api/springcloud-api.iml" filepath="$PROJECT_DIR$/springcloud-api/springcloud-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-concul-provider-8003/springcloud-concul-provider-8003.iml" filepath="$PROJECT_DIR$/springcloud-concul-provider-8003/springcloud-concul-provider-8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-consul-userconsumer-9002/springcloud-consul-userconsumer-9002.iml" filepath="$PROJECT_DIR$/springcloud-consul-userconsumer-9002/springcloud-consul-userconsumer-9002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-server-7001/springcloud-eureka-server-7001.iml" filepath="$PROJECT_DIR$/springcloud-eureka-server-7001/springcloud-eureka-server-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-userconsumer-9005/springcloud-eureka-userconsumer-9005.iml" filepath="$PROJECT_DIR$/springcloud-eureka-userconsumer-9005/springcloud-eureka-userconsumer-9005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eurela-client-80001/springcloud-eurela-client-80001.iml" filepath="$PROJECT_DIR$/springcloud-eurela-client-80001/springcloud-eurela-client-80001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-userconsumer-9001/springcloud-userconsumer-9001.iml" filepath="$PROJECT_DIR$/springcloud-userconsumer-9001/springcloud-userconsumer-9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-zookeeper-provider-9003/springcloud-zookeeper-provider-9003.iml" filepath="$PROJECT_DIR$/springcloud-zookeeper-provider-9003/springcloud-zookeeper-provider-9003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-zookeeper-userconsumer-9004/springcloud-zookeeper-userconsumer-9004.iml" filepath="$PROJECT_DIR$/springcloud-zookeeper-userconsumer-9004/springcloud-zookeeper-userconsumer-9004.iml" />
+    </modules>
+  </component>
+</project>

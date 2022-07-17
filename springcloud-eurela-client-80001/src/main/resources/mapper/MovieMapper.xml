@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ycz.com.ycz.com.ycz.com.ycz.springCloud.mapper.MovieMapper">
+
+    <resultMap type="com.ycz.springCloud.entity.Movie" id="MovieMap">
+        <result property="id" column="id" jdbcType="INTEGER"/>
+        <result property="movieName" column="movie_name" jdbcType="VARCHAR"/>
+        <result property="movieData" column="movie_data" jdbcType="TIMESTAMP"/>
+    </resultMap>
+
+
+
+
+</mapper>
+

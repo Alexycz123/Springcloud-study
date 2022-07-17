@@ -1,0 +1,12 @@
+server:
+  port: 9002
+spring:
+  application:
+    name: Consul-Consumer-9002
+  cloud:
+    consul:
+      port: 8500
+      host: localhost
+      discovery:
+        service-name: ${spring.application.name} # 注册到consul注册中心的应用名称
+

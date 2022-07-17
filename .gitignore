@@ -1,0 +1,10 @@
+# Project exclude paths
+/springcloud-api/target/
+/springcloud-concul-provider-8003/target/
+/springcloud-consul-userconsumer-9002/target/
+/springcloud-eureka-server-7001/target/
+/springcloud-eureka-userconsumer-9005/target/
+/springcloud-eurela-client-80001/target/
+/springcloud-userconsumer-9001/target/
+/springcloud-zookeeper-provider-9003/target/
+/springcloud-zookeeper-userconsumer-9004/target/

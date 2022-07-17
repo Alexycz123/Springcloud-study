@@ -1,0 +1,24 @@
+server:
+  port: 9003
+
+spring:
+  application:
+    name: springcloud-zookeeper-provider-9003
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/db05?useUnicode=true
+    username: root
+    password: 123456
+    type: com.alibaba.druid.pool.DruidDataSource
+  cloud:
+    zookeeper:
+      connect-string: 119.23.241.183:2181
+
+
+
+mybatis:
+  type-aliases-package: com.ycz.com.ycz.com.ycz.com.ycz.springCloud.entity
+  configuration:
+    map-underscore-to-camel-case: true
+  mapper-locations: classpath:mapper/*.xml
+
